@@ -8,14 +8,6 @@ h1, p, ul, li {
        font-weight: bold;
       }
 
-div {
-  background-color: lightgrey;
-  width: 300px;
-  border: 15px;
-  padding: 50px;
-  margin: 20px;
-}
-
 .column {
   float: left;
   width: 33.33%;
