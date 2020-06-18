@@ -8,6 +8,14 @@ h1, p, ul, li {
        font-weight: bold;
       }
 
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
 .column {
   float: left;
   width: 33.33%;
