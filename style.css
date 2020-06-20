@@ -3,7 +3,7 @@
         background-image: url("ShadowBackground.jpg")
       }
  
-h1, p, ul, li a {
+h1, p, ul, li, a {
        color: white;
        font-weight: bold;
       }
